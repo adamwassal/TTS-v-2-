@@ -19,6 +19,7 @@ def clear():
     lang_select.set("Choose a Language")
     status_lable.place_forget()
     button_listen.place_forget()
+    button_browse.place_forget()
 
 
 def listen():
