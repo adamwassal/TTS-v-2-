@@ -8,7 +8,6 @@ window = Tk()
 window.geometry("650x400")
 window.title("Text To Speach")
 window.config(bg="darkblue")
-window.attributes('-alpha',0.5)
 
 
 c2 = StringVar()
