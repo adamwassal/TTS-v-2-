@@ -8,4 +8,5 @@ pip3 install gtts
 
 # What must you have
 1- vlc player
+
 2 - install all libraries
