@@ -22,7 +22,7 @@ def clear():
 
 
 def listen():
-    os.system("vlc Recordings/" + entry_file.get() + ".wav")
+    os.system("vlc " + entry_file.get() + ".wav")
 
 
 def browse():
