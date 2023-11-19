@@ -1,4 +1,4 @@
-<img src="https://github.com/adamwassal/TTS-v-2-/assets/134928486/7219a2f4-7299-4126-aebc-9ae6e08d276c">
+<center><img src="https://github.com/adamwassal/TTS-v-2-/assets/134928486/7219a2f4-7299-4126-aebc-9ae6e08d276c"></center>
 
 # How to install
 
