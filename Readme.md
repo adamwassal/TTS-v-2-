@@ -1,3 +1,5 @@
+[icon](https://github.com/adamwassal/TTS-v-2-/assets/134928486/7219a2f4-7299-4126-aebc-9ae6e08d276c)
+
 # How to install
 
 sudo apt-get install python-tk
